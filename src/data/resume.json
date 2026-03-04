@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Kanika Bansal",
+    "title": "Data Analyst @ SRHU | Former Research Intern @ RBI",
+    "summary": "Reserve Bank of India has provided opportunities to contribute to research initiatives, leveraging statistical programming and data analysis skills. As a Research Intern, supported statistical modeling projects and collaborated on data-driven decision-making processes. Educational background in Statistics from CCS University underpins a strong analytical foundation. Pursued a Master's degree in Statistics while developing competencies in tools such as Jupyter Notebook and programming languages like Python and R. Passionate about uncovering actionable insights through data, with a focus on adaptability and continuous learning. Aspires to contribute meaningfully in roles that prioritize innovation and analytical rigor.",
+    "location": "Saharanpur, U.P., India",
+    "email": "kanikabansal02001@gmail.com",
+    "phone": "",
+    "links": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/kanika-bansal-21225024a" },
+      { "name": "Portfolio", "url": "https://kanikabansalz2g.github.io/kanika-portfolio/" },
+      { "name": "GitHub", "url": "https://github.com/KanikaBansalZ2G" },
+      { "name": "HackerRank", "url": "https://www.hackerrank.com/kanikabansal0201" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Swami Rama Himalayan University",
+      "role": "IQAC - Data Analyst",
+      "dates": "February 2026 - Present (2 months)",
+      "location": "Dehradun",
+      "bullets": []
+    },
+    {
+      "company": "Reserve Bank of India (RBI)",
+      "role": "Research Intern",
+      "dates": "January 2025 - December 2025 (1 year)",
+      "location": "Mumbai",
+      "bullets": []
+    },
+    {
+      "company": "JVMGRR Instt. of Computer Application, Ch. Dadri",
+      "role": "Assistant Professor",
+      "dates": "September 2023 - April 2024 (8 months)",
+      "location": "Haryana, India",
+      "bullets": []
+    },
+    {
+      "company": "Chegg Inc.",
+      "role": "Subject Matter Expert",
+      "dates": "February 2023 - June 2023 (5 months)",
+      "location": "",
+      "bullets": []
+    },
+    {
+      "company": "Jobwale (Get Hired!)",
+      "role": "Graphic Designer",
+      "dates": "January 2022 - April 2022 (4 months)",
+      "location": "",
+      "bullets": []
+    }
+  ],
+  "achievements": [],
+  "projects": [],
+  "skills": [
+    {
+      "category": "Top Skills",
+      "items": ["Automation", "The Jupyter Notebook", "Adobe Photoshop"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Technology, Madras",
+      "degree": "Bachelor of Science - BS, Data Science and Applications",
+      "dates": "September 2025",
+      "location": ""
+    },
+    {
+      "institution": "CCS (Chaudhary Charan Singh)University",
+      "degree": "Master's degree, Statistics",
+      "dates": "July 2021 - June 2023",
+      "location": ""
+    },
+    {
+      "institution": "Sri Dev Suman Uttarakhand University (SDSUV)",
+      "degree": "Bachelor's degree, Mathematics and Computer Science",
+      "dates": "July 2018 - July 2021",
+      "location": ""
+    }
+  ],
+  "certifications": [
+    "Analyzing and Visualizing Data with Microsoft Power BI",
+    "C Programming",
+    "HTML Fundamentals",
+    "Excel Dashboards | Visually Stunning Dashboards",
+    "Programming in C"
+  ],
+  "awards": [],
+  "extra": []
+}
